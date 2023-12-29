@@ -13,4 +13,6 @@
 | 81         | Path Sum: Two Ways          |              | 动态规划      |
 | 100        | Arranged Probability        | √            | 数列，递推    |
 | 121        | Disc Game Prize Fund        |              | 递推          |
-
+| 169        | Sums of Powers of Two       |              | 动态规划       |
+| 196        | Prime Triplets              |              | 枚举，素数筛/快速判素 |
+| 225        | Tribonacci Non-divisors     |              | 枚举，模m循环节 |
